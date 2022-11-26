@@ -1,1 +1,1 @@
-# LGM-TSK-3-DECISION-TREE
+# LGM-TSK-3-Prediction using Decision Tree  Algorithm
